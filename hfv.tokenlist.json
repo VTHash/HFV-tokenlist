@@ -1,0 +1,23 @@
+{
+  "name": "HFV Token List",
+  "logoURI": "https://raw.githubusercontent.com/VTHash/token-image-32by-32/main/received_887445375514806%20copy.png",
+  "keywords": ["hfv", "defi", "staking", "governance"],
+  "timestamp": "2025-08-22T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 2 },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xEAb3B66a24bD99171E0a854b6dA215CE3A7FFa98",
+      "name": "HFV",
+      "symbol": "HFV",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/VTHash/token-image-32by-32/main/received_887445375514806%20copy.png",
+      "extensions": {
+        "website": "https://hfvprotocol.org/",
+        "description": "HFV Protocol — staking, rewards, and governance token for the HFV ecosystem.",
+        "discord": "https://discord.gg/GS2R7kbU8M",
+        "twitter": "https://x.com/HFVProtocol"
+      }
+    }
+  ]
+}
